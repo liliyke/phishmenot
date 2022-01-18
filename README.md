@@ -1,4 +1,4 @@
-# phishmenot
+# PhishMeNot
 
 SpearPhishMeNot is an online checklist that can quickly determine whether an email is spam or malicious. It is a simple tool that requires little or no IT knowledge. As a result, all users of this tool must be able to access the checklist via a web browser on any device. It focuses on the three main areas of an email, namely the header, body, and attachment, to see if they contain information that could flag it as malicious or spam. When a user answers "YES" in the checklist for the header or body contents, the email is marked as suspicious.
 The user can also learn how phishing works and how to avoid it by using this tool, as each checklist includes an explanation of why it may be suspicious. Furthermore, by using this tool on a regular basis, the checklist will imprint itself on the user, and it will become a natural reflex to check these items for emails that could be spam or malicious.
